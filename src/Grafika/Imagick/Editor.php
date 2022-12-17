@@ -16,7 +16,7 @@ use Grafika\Position;
  * Imagick Editor class. Uses the PHP Imagick library.
  * @package Grafika\Imagick
  */
-final class Editor implements EditorInterface
+class Editor implements EditorInterface
 {
 
     /**
