@@ -1,6 +1,6 @@
 {
-    "name": "kosinix/grafika",
-    "description": "An image manipulation library for PHP.",
+    "name": "chajr/grafika",
+    "description": "An image manipulation library for PHP. Fork with some changes.",
     "keywords": ["grafika"],
     "homepage": "http://kosinix.github.io/grafika",
     "type": "library",
